@@ -1,0 +1,2 @@
+Machine management script for openstack
+You have to change in script network id, group id and ssh key  
